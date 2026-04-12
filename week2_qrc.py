@@ -194,5 +194,4 @@ plt.savefig("comparison_chart.png", dpi=150)
 plt.show()
 print("Saved: comparison_chart.png")
 
-print("\n✅ Week 2 complete.")
-print("   Next: Week 3 — inject noise at multiple levels and plot the performance curve.")
+print("   Next: inject noise at multiple levels and plot the performance curve.")
