@@ -219,6 +219,5 @@ plt.savefig("predictions_all_noise_levels.png", dpi=150)
 plt.show()
 print("Saved: predictions_all_noise_levels.png")
 
-print("\n✅ Week 3 complete.")
 print("   Your noise sensitivity curve is your main finding.")
-print("   Next: Week 4 — write up, figures, and presentation.")
+print("   Next: write up, figures, and presentation.")
